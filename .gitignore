@@ -1,4 +1,1 @@
-numerical.csv
-categorical.csv
-target.csv
-learningSet.csv
+*.csv
